@@ -6,8 +6,8 @@
 - Sistema CRUD hecho en .Net
 
 ## Technologies
--.Net 4.5
--Bootstrap 4.5
--SQL
+-Framework .Net 4.5.
+-Bootstrap 4.5.
+-SQL.
 ## Installation
-- Dentro de la carpeta proyecto esta el archivo de la base de datos. La conexion a la base de datos se hace desde el archivo web.config
+- Dentro de la carpeta proyecto esta el archivo de la base de datos. La conexion a la base de datos se hace desde el archivo web.config.
